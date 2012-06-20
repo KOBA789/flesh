@@ -9,5 +9,9 @@
     "node": "*"
   },
   "description": "Auto File Reloader",
-  "main": "./lib/index.js"
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KOBA789/flesh.git"
+  }
 }
